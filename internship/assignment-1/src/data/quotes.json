@@ -1,0 +1,85 @@
+[
+    {
+        "topic": "success",
+        "quotes": [
+            "Success is not final, failure is not fatal.",
+            "Don’t watch the clock; do what it does. Keep going.",
+            "The road to success is always under construction."
+        ]
+    },
+    {
+        "topic": "motivation",
+        "quotes": [
+            "Push yourself, because no one else is going to do it for you.",
+            "Great things never come from comfort zones.",
+            "Success doesn’t just find you. You have to go out and get it."
+        ]
+    },
+    {
+        "topic": "education",
+        "quotes": [
+            "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+            "The roots of education are bitter, but the fruit is sweet.",
+            "An investment in knowledge pays the best interest."
+        ]
+    },
+    {
+        "topic": "leadership",
+        "quotes": [
+            "A leader is one who knows the way, goes the way, and shows the way.",
+            "Leadership is not about a title or a designation.",
+            "The greatest leader is not necessarily the one who does the greatest things."
+        ]
+    },
+    {
+        "topic": "confidence",
+        "quotes": [
+            "Believe in yourself and all that you are.",
+            "Confidence comes not from always being right but from not fearing to be wrong.",
+            "With confidence, you have won before you have started."
+        ]
+    },
+    {
+        "topic": "growth",
+        "quotes": [
+            "Grow through what you go through.",
+            "Strive for progress, not perfection.",
+            "The only way to grow is to challenge yourself.",
+            "Growth is painful but worth it.",
+            "Keep moving forward.",
+            "Success follows consistent effort."
+        ]
+    },
+    {
+        "topic": "friendship",
+        "quotes": [
+            "Friendship isn’t about whom you’ve known the longest — it’s about who walked into your life and said, 'I’m here for you.'",
+            "A real friend is one who walks in when the rest of the world walks out.",
+            "True friendship comes when the silence between two people is comfortable."
+        ]
+    },
+    {
+        "topic": "hard work",
+        "quotes": [
+            "There is no substitute for hard work.",
+            "Dreams don’t work unless you do.",
+            "Success usually comes to those who are too busy to be looking for it."
+        ]
+    },
+    {
+        "topic": "coding",
+        "quotes": [
+            "Code is like humor. When you have to explain it, it’s bad.",
+            "Programs must be written for people to read, and only incidentally for machines to execute.",
+            "Talk is cheap. Show me the code."
+        ]
+    },
+    {
+        "topic": "creativity",
+        "quotes": [
+            "Creativity is intelligence having fun.",
+            "You can’t use up creativity. The more you use, the more you have.",
+            "The creative adult is the child who survived."
+        ]
+    }
+]
