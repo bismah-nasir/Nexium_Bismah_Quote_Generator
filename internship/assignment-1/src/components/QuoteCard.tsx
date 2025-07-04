@@ -1,15 +1,17 @@
-import { Card, CardContent } from "@/components/ui/card";
-
-interface Props {
-  quote: string;
+interface QuoteCardProps {
+    quote: {
+        text: string;
+        author: string;
+    };
 }
 
-export default function QuoteCard({ quote }: Props) {
-  return (
-    <Card className="my-4 shadow">
-      <CardContent className="p-4 text-center text-gray-700 font-medium">
-        “{quote}”
-      </CardContent>
-    </Card>
-  );
-}
+const QuoteCard: React.FC<QuoteCardProps> = ({ quote }) => (
+    <div className="border rounded-lg p-4 shadow bg-gray-100">
+        <p className="text-lg italic">“{quote.text}”</p>
+        <p className="text-sm text-right mt-2 font-medium text-gray-600">
+            — {quote.author}
+        </p>
+    </div>
+);
+
+export default QuoteCard;
