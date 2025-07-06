@@ -76,8 +76,8 @@ Nexium_Bismah_Quote_Generator/
 ### 1. **Clone the repository**
 
 ```
-git clone https://github.com/your-username/Nexium_Bismah_Assign1.git
-cd Nexium_Bismah_Assign1/internship/assignment-1
+git clone https://github.com/bismah-nasir/Nexium_Bismah_Quote_Generator.git
+cd Nexium_Bismah_Quote_Generator/internship/assignment-1
 ```
 
 ### 2. **Install dependencies**
