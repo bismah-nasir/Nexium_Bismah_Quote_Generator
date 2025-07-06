@@ -6,9 +6,9 @@ interface QuoteCardProps {
 }
 
 const QuoteCard: React.FC<QuoteCardProps> = ({ quote }) => (
-    <div className="border rounded-lg p-4 shadow bg-gray-100">
-        <p className="text-lg italic">“{quote.text}”</p>
-        <p className="text-sm text-right mt-2 font-medium text-gray-600">
+    <div className="border border-rose-300 p-10 rounded-xl shadow-lg w-full flex flex-col justify-between min-h-[200px] pl-15 pr-15">
+        <p className="text-lg italic text-rose-400">“{quote.text}”</p>
+        <p className="text-right text-m font-medium text-rose-400 mt-4">
             — {quote.author}
         </p>
     </div>
