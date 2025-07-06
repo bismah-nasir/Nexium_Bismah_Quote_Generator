@@ -124,6 +124,13 @@ pnpm start
 
 ---
 
+## 🌐 Live Demo
+You can view the live version of the **Quote Generator App** deployed on Vercel here:
+
+https://nexium-bismah-quote-generator.vercel.app/
+
+---
+
 ## 💖 Credits
 Built by **Bismah Nasir** as part of Nexium Internship
 
